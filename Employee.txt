@@ -1,0 +1,10 @@
+Nurish Azman:CC01:Batu Pahat:0165337324:155.00:3.50
+Lia Alya:CC02:Parit Raja:0124567456:140.00:3.50
+Anis Syura:CC03:Parit Sulong:0145678786:150.00:3.50
+Sharifah Rose:CC04:Taman Indah:0195645676:157.00:3.50
+Aliff Azhar:CC05:Bandar Putera:0123457689:135.00:3.50
+Ahmad Hasif:CC06:Taman Bestari:0134562345:165.00:3.50
+Nur Fasiha:CC07:Bukit Soga:0134789754:160.00:3.50
+Mohd Daniel:CC08:Sri Jaya:0167897647:94.00:3.50
+Aishah Ruslan:CC09:Bukit Perdana:0186756545:91.00:3.50
+Faris Farhan:CC10:Kampung Istana:01134568735:144.00:3.50
