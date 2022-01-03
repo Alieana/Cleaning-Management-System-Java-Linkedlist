@@ -1,2 +1,2 @@
 # Cleaning-Management-System
-Java
+Simple Java program to apply linkedlist methods.
